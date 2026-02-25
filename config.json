@@ -1,0 +1,14 @@
+{
+  "token": "",
+
+  "nombreServer": "",
+  "guildId": "", 
+  "rolesAdmin": [""],
+  "rolesTicket": "",
+  "rolVerificado": "",
+
+  "canalBienvenida": "",
+  "canalDespedida": "",
+  "canalInvitacion": "",
+    "categoriaTicket": ""
+}
